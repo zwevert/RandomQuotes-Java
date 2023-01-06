@@ -1,3 +1,4 @@
+#comment
 ARG VERSION=0.0.1
 
 FROM maven:3.6.3-jdk-8 AS build-env
